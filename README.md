@@ -1,4 +1,4 @@
-## Spotify_Music_Analysis
+# Spotify_Music_Analysis
 
 ### In my analysis of Spotify music using the Power BI tool, i've delved deep into the vast repository of songs available on the platform. By harnessing the data visualization capabilities of Power BI, i've uncovered fascinating insights into music trends and listener preferences. 
 

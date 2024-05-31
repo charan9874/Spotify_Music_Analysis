@@ -1,5 +1,5 @@
 # Spotify_Music_Analysis
-![Spotify logo](https://drive.google.com/file/d/18Yl-7utgmLmNS2gqfqhzZzR4z1K9N5cz/view?usp=sharing)
+![Spotify logo](https://github.com/charan9874/Spotify_Music_Analysis/blob/main/bg_spotify.jpg)
 ### In my analysis of Spotify music using the Power BI tool, i've delved deep into the vast repository of songs available on the platform. By harnessing the data visualization capabilities of Power BI, i've uncovered fascinating insights into music trends and listener preferences. 
 
 ### My analysis spans across various dimensions, including genre distribution, artist popularity, song attributes, user behavior, regional trends, and temporal dynamics.
